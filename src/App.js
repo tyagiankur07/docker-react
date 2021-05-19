@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hi There - First Docker Dev Env.
-          A new change made finally!
+          Keep watching this space!
         </p>
         <a
           className="App-link"
